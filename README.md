@@ -14,4 +14,5 @@ A simple Scratch game where gifts fall from the top and the player must catch th
 Download the `.sb3` file and open it in Scratch to play.
 
 ## Scratch Link
-(Add your Scratch online project link here)
+https://scratch.mit.edu/projects/1261338261
+
